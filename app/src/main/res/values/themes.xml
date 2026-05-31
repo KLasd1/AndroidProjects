@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.PersonalLibrary" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Основной синий цвет (акценты) -->
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryVariant">#1976D2</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Вторичный тёмно-синий -->
+        <item name="colorSecondary">#0D47A1</item>
+        <item name="colorSecondaryVariant">#0A2F6C</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Фон белый -->
+        <item name="android:colorBackground">#F5F5F5</item>
+
+        <!-- Строка состояния (статус-бар) -->
+        <item name="android:statusBarColor">#1976D2</item>
+    </style>
+</resources>
